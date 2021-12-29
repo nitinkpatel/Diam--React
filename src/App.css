@@ -45,8 +45,13 @@
 }
 
 body {
-  font-family: Open sans, sans-serif;
+  font-family: Open Oswald, sans-serif;
   height: 100vh;
   background: #f1f1f1;
   overflow: hidden;
+}
+.text-title{
+  font-family: 'Permanent Marker', cursive;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
 }

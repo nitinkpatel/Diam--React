@@ -7,12 +7,12 @@ export default function Menu() {
         <div>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand href="#home">Hira-Bajar</Navbar.Brand>
+                    <Navbar.Brand href="#home">Diam-Jewel</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="#features">Diamonds</Nav.Link>
-                            <Nav.Link href="#pricing">Auction</Nav.Link>
+                            {/* <Nav.Link href="#features">Diamonds</Nav.Link> */}
+                            <Nav.Link href="./Appointment">Appointment</Nav.Link>
                          
                         </Nav>
                         <Nav>
